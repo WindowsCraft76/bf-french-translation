@@ -4,4 +4,4 @@
 
 Complete translation of the [BlockFront](https://modrinth.co/mod/blockfront) mod into French.
 
-Progress on translation: **12.3%**
+Progress on translation: **21.51%**
